@@ -1,2 +1,3 @@
+Hello this is the master branch code..
 Hello this file contains Database rlated code...
 having some utiities for connection
