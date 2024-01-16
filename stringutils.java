@@ -1,1 +1,1 @@
-Hello this file contains the string function..
+Hello this file contains string function..
